@@ -1,0 +1,20 @@
+{
+  "name": "aoc2022",
+  "version": "1.0.0",
+  "description": "Advent of Code 2022",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnssnmrcs/AoC2022.git"
+  },
+  "author": "Marcus Jonsson",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jnssnmrcs/AoC2022/issues"
+  },
+  "homepage": "https://github.com/jnssnmrcs/AoC2022#readme"
+}
